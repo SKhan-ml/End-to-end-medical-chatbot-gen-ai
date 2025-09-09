@@ -3,6 +3,6 @@ STEPS:
 Project repo: https://github.com/
 STEP 01- Create a conda environment after opening the repository
 conda create -n medibot python=3.10 -y
-conda activate medibot
+conda activate medichat
 install the requirements
 pip install -r requirements.txt
